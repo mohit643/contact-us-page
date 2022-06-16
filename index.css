@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+}
+.box{
+  background-color: white;
+  width: 343px;
+  height: 425px;;
+  margin-inline: auto;
+  margin-top: 136px;
+  border-radius: 6px;
+}
+h1{
+  text-align: center;
+  padding: 20px;
+}
+.text{
+  text-align: center;
+ 
+}
+input{
+  margin: 0.5rem;
+  font-size: 19px;
+}
+textarea{
+  font-size: 20.5px;
+  margin: 8px;
+}
+button{
+  width: 70px;
+  height: 35px;
+}
+.bu{
+  text-align: center;
+  margin: 20px;
+}
+button{
+  width: 70px;
+  height: 35px;
+  background-color: aqua;
+  border-color: aqua;
+  border-radius: 6px;
+  color: white;
+
+}
